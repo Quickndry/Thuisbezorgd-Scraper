@@ -46,7 +46,7 @@ class ThuizSpider(scrapy.Spider):
                  proxy="http://matrixian:TYYQeMZ7uI76YQ0p@proxy.packetstream.io:31112",
                  number_of_attempts=5):
         """
-           This constructor takes five arguments, linkand postalCode, and assigns them to the spider's attributes.
+           This constructor takes five arguments and assigns them to the spider's attributes.
         """
 
         self.sleep_duration = random.randint(min_sleep_duration, min_sleep_duration + 30)
