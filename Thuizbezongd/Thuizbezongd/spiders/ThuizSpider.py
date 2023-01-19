@@ -62,7 +62,6 @@ class ThuizSpider(scrapy.Spider):
                      f' Proxy: {proxy}\n'
                      f' Use Proxy: {"yes" if use_proxy == True else "no"}')
 
-        # self.worker = worker
         self.link = link
 
     def start_requests(self):
