@@ -121,6 +121,7 @@ The TaskQueue class is used to manage the tasks (in this case, links) that are p
 The run() method is used to start the concurrent execution of the spider by submitting the tasks to the executor. The stop() method is used to stop the execution of the spider. The generate_spider() method is used to start the spider using the CrawlerProcess class from the scrapy library.
 It's failed because it increased the request load on the website. It's currently not a part of the pipeline but I wanted to put it anyway.
 
+## Results
 
 ### Database Overview
 ![alt text](https://github.com/Astosi/Thuisbezorgd-Scraper/blob/main/test_imgs/thuiznezongd_db.png?raw=true)
@@ -133,9 +134,3 @@ It's failed because it increased the request load on the website. It's currently
 
 ### Menus Table
 ![alt text](https://github.com/Astosi/Thuisbezorgd-Scraper/blob/main/test_imgs/items.png?raw=true)
-
-
-
-
-
-
