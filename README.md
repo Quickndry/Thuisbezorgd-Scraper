@@ -130,7 +130,7 @@ It's failed because it increased the request load on the website. It's currently
 ![alt text](https://github.com/Astosi/Thuisbezorgd-Scraper/blob/main/test_imgs/netherlands_postcodes.png?raw=true)
 
 ### Restaurants Table
-![alt text](https://github.com/Astosi/Thuisbezorgd-Scraper/blob/main/test_imgs/restourants.png?raw=true)
+![alt text](https://github.com/Astosi/Thuisbezorgd-Scraper/blob/main/test_imgs/restaurants.png?raw=true)
 
 ### Menus Table
 ![alt text](https://github.com/Astosi/Thuisbezorgd-Scraper/blob/main/test_imgs/items.png?raw=true)
