@@ -122,17 +122,17 @@ The run() method is used to start the concurrent execution of the spider by subm
 It's failed because it increased the request load on the website. It's currently not a part of the pipeline but I wanted to put it anyway.
 
 
-### Database overview
+### Database Overview
 ![alt text](https://github.com/Astosi/Thuisbezorgd-Scraper/blob/main/test_imgs/thuiznezongd_db.png?raw=true)
 
-### Restaurants table
+### Netherlands Postcodes Table
 ![alt text](https://github.com/Astosi/Thuisbezorgd-Scraper/blob/main/test_imgs/netherlands_postcodes.png?raw=true)
 
-### Restaurants table
-![alt text](https://github.com/Astosi/Thuisbezorgd-Scraper/blob/main/test_imgs/restaurants.png?raw=true)
+### Restaurants Table
+![alt text](https://github.com/Astosi/Thuisbezorgd-Scraper/blob/main/test_imgs/restourants.png?raw=true)
 
-### Menus table
-![alt text](https://github.com/Astosi/Thuisbezorgd-Scraper/blob/main/test_imgs/menus.png?raw=true)
+### Menus Table
+![alt text](https://github.com/Astosi/Thuisbezorgd-Scraper/blob/main/test_imgs/items.png?raw=true)
 
 
 
