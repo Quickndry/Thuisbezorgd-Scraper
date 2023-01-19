@@ -36,7 +36,7 @@ if __name__ == '__main__':
     ##Spider configuration
     # spider_kwargs = {'min_sleep_duration': 15,
     #                  'use_proxy': True,
-    #                  'proxy': "http://matrixian:TYYQeMZ7uI76YQ0p@proxy.packetstream.io:31112",
+    #                  'proxy': "http://proxy",
     #                  'number_of_attempts': 5}
 
     # Default is Noord-Holland
