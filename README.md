@@ -110,7 +110,16 @@ After the spider is generated, the script will wait before generating the next s
 
 ### run.py
 The user can choose from the list of provinces provided in the PROVINCES variable. The script will prompt the user to select a province from the list, and will return the selected province. If the user does not provide any input, the script will return the default province, which is set to Noord-Holland.
+```
+    #Spider configuration
+    spider_kwargs = {'min_sleep_duration': 15,
+                     'use_proxy': True,
+                     'proxy': "http://proxy.server",
+                     'number_of_attempts': 5}
 
+    # Default is Noord-Holland
+    GenSpider(province, spider_kwargs)
+```
 The script also includes a spider configuration section, where the user can customize the the Spider by setting the sleep duration, whether to use a proxy or not, the proxy url and number of attempts. 
 ## Concurrent Approaches
 
