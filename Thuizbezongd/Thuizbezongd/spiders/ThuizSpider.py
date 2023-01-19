@@ -43,7 +43,7 @@ class ThuizSpider(scrapy.Spider):
     def __init__(self, link='',
                  min_sleep_duration=20,
                  use_proxy=False,
-                 proxy="http://matrixian:TYYQeMZ7uI76YQ0p@proxy.packetstream.io:31112",
+                 proxy="",  #Removed for security
                  number_of_attempts=5):
         """
            This constructor takes five arguments and assigns them to the spider's attributes.
